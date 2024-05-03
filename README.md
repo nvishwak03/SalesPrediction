@@ -37,3 +37,18 @@ or
 ### `npm start`
 
 Note: Download the CORS extension and enable cors to handle apis between Flask backend server and React frontend 
+
+## Demo
+1. Open your browser and go to http://localhost:<port_number>/home, replacing <port_number> with the port number on which the React application is running
+### `http://localhost:<port_number>/home`
+
+2. Fill the input Item details form and on Submit you can see the predictions value like below:
+   ![image](https://github.com/nvishwak03/SalesPrediction/assets/157331939/e2beab13-417f-4269-b487-c6e8704c2a7c)
+
+3. Click on "Upload Data" to upload the Excel file containing the items for which you want to predict sales
+4. Once the file is uploaded, the application will process the data and provide predictions which can be exported
+   ![image](https://github.com/nvishwak03/SalesPrediction/assets/157331939/36d2419b-46d5-4023-a523-ab53426d52de)
+5. Click on "Visualizations" to view the data distribution plots for trained data
+
+
+
