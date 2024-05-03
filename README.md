@@ -49,6 +49,11 @@ Note: Download the CORS extension and enable cors to handle apis between Flask b
 4. Once the file is uploaded, the application will process the data and provide predictions which can be exported
    ![image](https://github.com/nvishwak03/SalesPrediction/assets/157331939/36d2419b-46d5-4023-a523-ab53426d52de)
 5. Click on "Visualizations" to view the data distribution plots for trained data
+   ## Pie Chart and Bar chart
+![image](https://github.com/nvishwak03/SalesPrediction/assets/157331939/d3054298-8174-41df-93ca-e2f34bc88b3b)
+   ## Scatter plots
+![image](https://github.com/nvishwak03/SalesPrediction/assets/157331939/5d9508d8-c85c-40df-9a31-0cb8e28888ac)
+
 
 
 
