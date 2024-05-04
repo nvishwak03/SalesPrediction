@@ -1,7 +1,7 @@
 
 # BigMart Sales Prediction
 
-## This project is a server-side application built using Python Flask for machine learning model deployment. It serves Sales predictions using an XGBoost model trained on bigmart sales dataset.
+## This project is a server-side application built using Python Flask for machine learning model deployment. It serves Sales predictions using an Random Forest model trained on bigmart sales dataset.
 
 ## Installation (Backend)
 1. Navigate to the server directory using the command line:
