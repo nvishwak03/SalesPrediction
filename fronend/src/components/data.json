@@ -1,0 +1,35 @@
+{
+    "categoryCounts": {
+      "Fruits and Vegetables":   1230,
+        "Snack Foods":1199,
+        "Household":908,
+        "Frozen Foods":853,
+        "Dairy":683,
+        "Canned":648,
+        "Baking Goods":646,
+        "Health and Hygiene":518,
+        "Soft Drinks":445,
+        "Meat":425,
+        "Breads":250,
+        "Hard Drinks":214,
+        "Others":167,
+        "Starchy Foods":148,
+        "Breakfast":110,
+        "Seafood": 64
+    },
+    "scatterData":{
+      
+    },
+    "barData":{
+      "1985":1461,
+      "1987":931,
+      "2004":930,
+      "1999":928,
+      "2002":928,
+      "2009":927,
+      "1997":927,
+      "2007":923,
+      "1998":553
+    }
+  }
+  
